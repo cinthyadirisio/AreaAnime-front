@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Righteous&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="shortcut icon" href="./assets/favicon.ico" type="image/x-icon">
+    <title>Area Anime | Stats</title>
+</head>
+<body>
+
+    <header class="d-flex justify-content-around align-items-center">
+        <a href="./index.html" class="text-decoration-none text-black">
+            <h1>Area Anime</h1>
+        </a>
+        <div class="d-flex gap-4">
+            <a href="./stats.html" class="btn btn-dark">Estadisticas</a>
+            <button class="btn btn-dark" type="button" data-bs-toggle="offcanvas"
+            data-bs-target="#offcanvasWithBothOptions" aria-controls="offcanvasWithBothOptions">Favorites</button>
+
+        </div>
+    </header>
+    <main class="bg-black">
+
+
+        <div class="offcanvas offcanvas-start" data-bs-scroll="true" tabindex="-1" id="offcanvasWithBothOptions"
+            aria-labelledby="offcanvasWithBothOptionsLabel">
+            <div class="offcanvas-header">
+                <h5 class="offcanvas-title" id="offcanvasWithBothOptionsLabel">Favoritos</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+            </div>
+            <div class="offcanvas-body">
+                <p>¡Aun no tienes favoritos!</p>
+            </div>
+        </div>
+
+        <section class="d-flex flex-column align-items-center p-3">
+            <h2 class="text-light">Estadisticas de Animes</h2>
+            <table id="table1" class="table table-responsive table-dark d-flex flex-column flex-wrap gap-2 align-items-center p-2">
+                <colgroup>
+                    <col span="1" class="viejo">
+                    <col span="1" class="nuevo">
+                    <col span="1" class="menosE">
+                    <col span="1" class="masE">
+                </colgroup>
+                <thead>
+                    <tr>
+                        <th>El más viejo</th>
+                        <th>El más nuevo</th>
+                        <th>El de menos episodios</th>
+                        <th>El de más episodios</th>
+                    </tr>
+                </thead>
+                <tbody id="tbody1"></tbody>
+            </table>
+            <table id="table2" class="table table-responsive table-dark d-flex flex-column flex-wrap gap-2 align-items-center p-2">
+                <colgroup>
+                    <col span="1" class="genero">
+                    <col span="1" class="animexgen">
+                    <col span="1" class="epixgen">
+                </colgroup>
+                <thead>
+                    <tr>
+                        <th>Género</th>
+                        <th>Cantidad de Animes por Género</th>
+                        <th>Cantidad de Episodios por Género</th>
+                    </tr>
+                </thead>
+                <tbody id="tbody2"></tbody>
+            </table>
+        </section>
+    </main>
+    <footer class="d-flex justify-content-center align-items-center">
+        <p class="fw-bold">Area Anime</p>
+    </footer>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN"
+        crossorigin="anonymous"></script>
+    <script src="./scripts/stats.js"></script>
+</body>
+</html>

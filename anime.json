@@ -1,0 +1,828 @@
+{
+    "anime": [
+        {
+            "id": "a001",
+            "title": "Fullmetal Alchemist: Brotherhood",
+            "year": 2009,
+            "studio": "Bones",
+            "genre": [
+                "Action",
+                "Adventure",
+                "Drama",
+                "Fantasy",
+                "Magic",
+                "Military",
+                "Shounen"
+            ],
+            "episodes": 64,
+            "description": "Edward Elric y su hermano menor Alphonse son dos jóvenes alquimistas que buscan la piedra filosofal, el objeto mítico que supuestamente les permitirá restaurar sus cuerpos después de un fallido intento de resucitar a su madre. Sin embargo, después de pasar por innumerables penurias y peligros, descubren que el verdadero precio de la piedra filosofal puede ser mucho mayor de lo que esperaban.",
+            "cover_image_url": "https://cdn.myanimelist.net/images/anime/5/47421.jpg"
+        },
+        {
+            "id": "a002",
+            "title": "Your Lie in April",
+            "year": 2014,
+            "studio": "A-1 Pictures",
+            "genre": [
+                "Drama",
+                "Music",
+                "Romance",
+                "School",
+                "Shounen"
+            ],
+            "episodes": 22,
+            "description": "Kosei Arima era un prodigio del piano en su infancia, pero después de la muerte de su madre, se retiró del mundo del piano y se aisló socialmente. Todo cambia cuando conoce a una violinista llamada Kaori Miyazono, quien lo lleva de vuelta a la música y lo ayuda a redescubrir la alegría de tocar el piano.",
+            "cover_image_url": "https://scontent.faep9-1.fna.fbcdn.net/v/t39.30808-6/272159834_2044776259024133_2886902011211884944_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=GxyFugN5odMAX_eoigH&_nc_ht=scontent.faep9-1.fna&oh=00_AfCr5z3uBGP46mIhBzmNFTKnJRiLdtatHKRiS7K0wOYE-Q&oe=641D4177"
+        },
+        {
+            "id": "a003",
+            "title": "Cowboy Bebop",
+            "year": 1998,
+            "studio": "Sunrise",
+            "genre": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Drama",
+                "Sci-Fi",
+                "Space"
+            ],
+            "episodes": 26,
+            "description": "En un futuro lejano, un grupo de cazadores de recompensas viaja por el espacio en su nave, la Bebop, buscando criminales peligrosos y recolectando recompensas. Sin embargo, sus propias vidas complicadas y su pasado siempre los alcanzan, y tendrán que enfrentar las consecuencias de sus acciones.",
+            "cover_image_url": "https://pics.filmaffinity.com/Cowboy_Bebop_Serie_de_TV-548837932-large.jpg"
+        },
+        {
+            "id": "a004",
+            "title": "Demon Slayer: Kimetsu no Yaiba",
+            "year": 2019,
+            "studio": "ufotable",
+            "genre": [
+                "Action",
+                "Demons",
+                "Historical",
+                "Shounen",
+                "Supernatural"
+            ],
+            "episodes": 26,
+            "description": "Tanjiro Kamado se convierte en un cazador de demonios después de que su familia es asesinada y su hermana menor, Nezuko, se convierte en un demonio. Ahora, los hermanos viajan juntos para encontrar una cura para Nezuko y venganza contra el demonio que mató a su familia.",
+            "cover_image_url": "https://m.media-amazon.com/images/M/MV5BNThhYWViMjMtNDMzZC00YjliLTllYWYtYTdlOTM1MmNjMDE4XkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg"
+        },
+        {
+            "id": "a005",
+            "title": "Haikyuu!!",
+            "year": 2014,
+            "studio": "Production I.G",
+            "genre": [
+                "Comedy",
+                "Drama",
+                "School",
+                "Shounen",
+                "Sports"
+            ],
+            "episodes": 60,
+            "description": "Después de ver un partido de vóley, Hinata Shouyo, inspirado por el jugador conocido como el Pequeño Gigante, decide unirse al equipo de vóley de su escuela secundaria. Sin embargo, su equipo carece de miembros y habilidades, y Hinata debe luchar por llevar a su equipo a la cima.",
+            "cover_image_url": "https://i0.wp.com/quotetheanime.com/wp-content/uploads/2022/09/haikyuu-manga.jpg"
+        },
+        {
+            "id": "a006",
+            "title": "Spirited Away",
+            "year": 2001,
+            "studio": "Studio Ghibli",
+            "genre": [
+                "Adventure",
+                "Drama",
+                "Fantasy",
+                "Supernatural"
+            ],
+            "episodes": 1,
+            "description": "Chihiro, una niña de 10 años, se muda con sus padres a un nuevo hogar en las afueras de la ciudad. En el camino hacia su nueva casa, la familia se pierde y llega a un extraño mundo sobrenatural. Cuando los padres de Chihiro son transformados en cerdos por un misterioso hechizo, ella debe buscar una manera de volver al mundo humano y salvarlos. Durante su aventura, conoce a Haku, un misterioso chico que la ayuda a sobrevivir en este mundo extraño. 'Spirited Away' es una película de animación japonesa de Studio Ghibli, dirigida por Hayao Miyazaki, y se considera uno de los mejores filmes animados de todos los tiempos.",
+            "cover_image_url": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+        },
+        {
+            "id": "a007",
+            "title": "One Piece",
+            "year": 1999,
+            "studio": "Toei Animation",
+            "genre": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Drama",
+                "Fantasy",
+                "Shounen",
+                "Super Power"
+            ],
+            "episodes": 1054,
+            "description": "Monkey D. Luffy y su tripulación de piratas buscan el tesoro más grande del mundo, el One Piece, en una búsqueda épica que los lleva a través de mares peligrosos y enfrentamientos con otros piratas y la Marina.",
+            "cover_image_url": "https://m.media-amazon.com/images/M/MV5BODcwNWE3OTMtMDc3MS00NDFjLWE1OTAtNDU3NjgxODMxY2UyXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg"
+        },
+        {
+            "id": "a008",
+            "title": "Neon Genesis Evangelion",
+            "year": 1995,
+            "studio": "Gainax",
+            "genre": [
+                "Action",
+                "Dementia",
+                "Drama",
+                "Mecha",
+                "Psychological",
+                "Sci-Fi"
+            ],
+            "episodes": 26,
+            "description": "En un futuro cercano, la humanidad se enfrenta a la amenaza de los 'Ángeles', seres gigantes y misteriosos que atacan la Tierra. Para combatirlos, la organización NERV crea los 'Evas', máquinas humanoides gigantes que pueden ser pilotadas solo por adolescentes especiales. El protagonista, Shinji Ikari, es uno de estos pilotos, y se une a la lucha para proteger a la humanidad. A medida que avanza la historia, la serie explora temas de identidad, soledad y trauma, y se convierte en un clásico del anime.",
+            "cover_image_url": "https://m.media-amazon.com/images/M/MV5BODZkZjUxNmEtMGEyOS00ZDY5LTkxZDMtZTJkZDBiZTkyOWRkXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg"
+        },
+        {
+            "id": "a009",
+            "title": "JoJo's Bizarre Adventure",
+            "year": 2012,
+            "studio": "David Production",
+            "genre": [
+                "Action",
+                "Adventure",
+                "Horror",
+                "Supernatural"
+            ],
+            "episodes": 155,
+            "cover_image_url": "https://flxt.tmsimg.com/assets/p13351521_b_v9_aa.jpg",
+            "description": "La serie sigue a la familia Joestar, cuyo distintivo poder es la habilidad de controlar su energía vital, conocida como Stand. Cada temporada presenta a un nuevo miembro de la familia y su lucha contra un enemigo con habilidades sobrenaturales. Desde la lucha contra los vampiros hasta la batalla contra los gánsteres italianos, las aventuras de los Joestar son una mezcla única de acción, comedia y horror sobrenatural."
+        },
+        {
+            "id": "a010",
+            "title": "Hunter x Hunter (2011)",
+            "year": 2011,
+            "studio": "Madhouse",
+            "genre": [
+                "Action",
+                "Adventure",
+                "Fantasy",
+                "Shounen",
+                "Super Power"
+            ],
+            "episodes": 148,
+            "description": "Gon Freecss sueña con convertirse en un cazador de élite, como su padre desaparecido. Para alcanzar este objetivo, debe pasar la difícil y peligrosa prueba de los cazadores, que incluye viajar a través de territorios inexplorados, capturar criminales peligrosos y luchar contra otros cazadores para obtener puntos. Junto con otros aspirantes a cazadores, incluyendo a su nuevo amigo Killua, Gon se enfrentará a numerosos desafíos y descubrirá oscuros secretos sobre su padre y el mundo de los cazadores.",
+            "cover_image_url": "https://image.tmdb.org/t/p/original/eHv7DcRol9xrpwE14D4GuRdgcH0.jpg"
+        },
+        {
+            "id": "a011",
+            "title": "Attack on Titan",
+            "year": 2013,
+            "studio": "Wit Studio",
+            "genre": [
+                "Action",
+                "Drama",
+                "Fantasy",
+                "Military",
+                "Mystery",
+                "Shounen",
+                "Super Power"
+            ],
+            "episodes": 75,
+            "description": "En un mundo donde la humanidad vive rodeada de enormes muros para protegerse de los titanes, enormes humanoides que devoran a los humanos sin razón aparente, Eren Yeager, Mikasa Ackerman y Armin Arlert deciden unirse al ejército para luchar contra ellos y descubrir la verdad detrás de su existencia.",
+            "cover_image_url": "https://flxt.tmsimg.com/assets/p10701949_b_v8_ah.jpg"
+        },
+        {
+            "id": "a012",
+            "title": "Death Note",
+            "year": 2006,
+            "studio": "Madhouse",
+            "genre": [
+                "Mystery",
+                "Police",
+                "Psychological",
+                "Supernatural",
+                "Thriller"
+            ],
+            "episodes": 37,
+            "description": "Cuando el estudiante de secundaria Light Yagami encuentra un misterioso cuaderno que le permite matar a cualquier persona cuyo nombre escriba en él, comienza a utilizarlo para eliminar a los criminales del mundo. Pero su cruzada por la justicia atrae la atención del detective L, y comienza un juego del gato y el ratón para descubrir la identidad del otro.",
+            "cover_image_url": "https://m.media-amazon.com/images/M/MV5BNjRiNmNjMmMtN2U2Yi00ODgxLTk3OTMtMmI1MTI1NjYyZTEzXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_FMjpg_UX1000_.jpg"
+        },
+        {
+            "id": "a015",
+            "title": "Code Geass: Lelouch of the Rebellion",
+            "year": 2006,
+            "studio": "Sunrise",
+            "genre": [
+                "Action",
+                "Drama",
+                "Mecha",
+                "Military",
+                "Sci-Fi",
+                "Super Power"
+            ],
+            "episodes": 25,
+            "description": "En un mundo donde el Sacro Imperio de Britannia ha conquistado gran parte del mundo, Japón es su última víctima. Renombrado como 'Área 11', los ciudadanos japoneses son conocidos como 'elevens' y son tratados como ciudadanos de segunda clase. Lelouch, un príncipe exiliado de Britannia, adquiere un poder misterioso conocido como 'Geass' y se une a la resistencia japonesa para luchar contra el gobierno opresivo y vengarse de aquellos que lo exiliaron.",
+            "cover_image_url": "https://pics.filmaffinity.com/Code_Geass_Lelouch_of_the_Rebellion_Serie_de_TV-702591024-large.jpg"
+        },
+        {
+            "id": "a016",
+            "title": "One Punch Man",
+            "year": 2015,
+            "studio": "Madhouse",
+            "genre": [
+                "Action",
+                "Comedy",
+                "Parody",
+                "Sci-Fi",
+                "Seinen",
+                "Super Power",
+                "Supernatural"
+            ],
+            "episodes": 24,
+            "description": "En un mundo donde los superhéroes y los villanos son una parte común de la vida cotidiana, Saitama es un héroe capaz de derrotar a cualquier enemigo con un solo golpe. Pero su habilidad extraordinaria y su vida monótona como un héroe aburrido lo llevan a buscar un oponente digno, mientras lidia con otros héroes que lo subestiman y enemigos más peligrosos que amenazan la paz de la ciudad.",
+            "cover_image_url": "https://m.media-amazon.com/images/M/MV5BZjJlNzE5YzEtYzQwYS00NTBjLTk5YzAtYzUwOWQyM2E3OGI2XkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_FMjpg_UX1000_.jpg"
+        },
+        {
+            "id": "a017",
+            "title": "Jujutsu Kaisen",
+            "year": 2020,
+            "studio": "MAPPA",
+            "genre": [
+                "Action",
+                "Demons",
+                "Horror",
+                "Supernatural",
+                "Shounen"
+            ],
+            "episodes": 24,
+            "cover_image_url": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/816osmYUFtL._RI_.jpg",
+            "description": "En un mundo donde los demonios conocidos como 'maldiciones' son devoradores de hombres que amenazan con destruir la humanidad, existe una organización de maldiciones encargada de combatirlos: Jujutsu. Yuji Itadori, un estudiante de secundaria, se une a Jujutsu después de trágicas circunstancias, y comienza su entrenamiento como hechicero para proteger a la gente de los peligrosos maldiciones."
+        },
+        {
+            "id": "a018",
+            "title": "Violet Evergarden",
+            "year": 2018,
+            "studio": "Kyoto Animation",
+            "genre": [
+                "Drama",
+                "Fantasy",
+                "Slice of Life"
+            ],
+            "episodes": 13,
+            "cover_image_url": "https://m.media-amazon.com/images/M/MV5BZmUzMThjOTItZGY4ZS00ODcwLTliNTMtYjVkM2JmY2QxNmRhXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg",
+            "description": "Después de la Gran Guerra, Violet Evergarden, una ex-soldado, comienza una nueva vida trabajando como escritora de cartas para ayudar a comprender los sentimientos de los demás y entender mejor los suyos propios. A través de sus experiencias, Violet descubre la belleza del lenguaje y la emoción que puede transmitir, mientras busca el significado de las palabras 'Te quiero'."
+        },
+        {
+            "id": "a019",
+            "title": "Elfen Lied",
+            "year": 2004,
+            "studio": "Arms",
+            "genre": [
+                "Action",
+                "Drama",
+                "Horror",
+                "Romance",
+                "Sci-Fi",
+                "Seinen"
+            ],
+            "episodes": 13,
+            "cover_image_url": "https://m.media-amazon.com/images/M/MV5BMDU1ZmQwZTQtZjg1OS00YzhhLWE0MTEtYjYxNzdkNzk2NWVkXkEyXkFqcGdeQXVyNTk5NTQ1NzM@._V1_FMjpg_UX1000_.jpg",
+            "description": "Elfen Lied cuenta la historia de Lucy, una Diclonius, una raza mutante de humanos similares a los humanos pero con dos cuernos y habilidades telequinéticas. Lucy escapa de un laboratorio de investigación secreto y comienza su venganza contra los humanos por su torturada existencia. Sin embargo, durante su fuga, sufre un traumatismo craneal que la transforma en una personalidad secundaria amnésica y emocionalmente inmadura."
+        },
+        {
+            "id": "a020",
+            "title": "xxxHOLiC",
+            "year": 2006,
+            "studio": "Production I.G",
+            "genre": [
+                "Mystery",
+                "Supernatural",
+                "Drama"
+            ],
+            "episodes": 24,
+            "cover_image_url": "https://i.pinimg.com/originals/05/ea/72/05ea72ff6460ef1d971ad8fbdd9eee38.jpg",
+            "description": "Kimihiro Watanuki es un estudiante de instituto que tiene la habilidad de ver espíritus y monstruos. Un día, entra en una tienda que le promete conceder su deseo, pero para pagar el precio, debe trabajar para el dueño de la tienda, Yūko Ichihara, una poderosa bruja que concede deseos. Trabajando en la tienda de Yūko, Watanuki conoce a diferentes clientes y se enfrenta a diversas situaciones sobrenaturales. 'xxxHOLiC' es un anime basado en el manga homónimo de CLAMP."
+        },
+        {
+            "id": "a021",
+            "title": "Cardcaptor Sakura",
+            "year": 1998,
+            "studio": "Madhouse",
+            "genre": [
+                "Magical girl",
+                "Romance",
+                "Fantasy"
+            ],
+            "episodes": 70,
+            "cover_image_url": "https://m.media-amazon.com/images/M/MV5BYThkZTBiN2UtZWJkMC00NzQ1LTg4ODktYjlhN2UwMTYzZWVhXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_FMjpg_UX1000_.jpg",
+            "description": "Sakura Kinomoto es una niña normal y corriente hasta que un día, mientras estaba en la biblioteca de su padre, abre accidentalmente un libro llamado 'El Clow'. Dentro del libro se encuentran unas cartas mágicas llamadas 'Cartas Clow' que se dispersan por toda la ciudad. Kero, el guardián del libro, despierta y le encomienda a Sakura la misión de recoger todas las Cartas Clow antes de que caigan en las manos equivocadas. Sakura acepta la misión y se convierte en la 'Cardcaptor' de las Cartas Clow, luchando contra otros poseedores de las cartas y descubriendo el misterio detrás del libro y su creador, el mago Clow Reed. 'Cardcaptor Sakura' es un anime de Madhouse basado en el manga del mismo nombre de CLAMP."
+        },
+        {
+            "id": "a022",
+            "title": "Highschool of the Dead",
+            "year": 2010,
+            "studio": "Madhouse",
+            "genre": [
+                "Action",
+                "Horror",
+                "Ecchi"
+            ],
+            "episodes": 12,
+            "cover_image_url": "https://m.media-amazon.com/images/M/MV5BMmMxMzBkOGMtNWMyNS00NTZmLWFlOWEtYzhmODk3MDZhMTVlXkEyXkFqcGdeQXVyMTM0NDkxNDIz._V1_.jpg",
+            "description": "Un extraño virus se extiende por todo el mundo, convirtiendo a las personas en zombis. En medio del caos, un grupo de estudiantes de la Academia Fujimi lucha por sobrevivir y encontrar a sus familiares. Takashi Komuro, el protagonista, lidera a un grupo de sobrevivientes mientras luchan contra los zombis y se enfrentan a situaciones peligrosas y a menudo perturbadoras. 'Highschool of the Dead' es un anime de Madhouse basado en el manga del mismo nombre de Daisuke Satō."
+        },
+        {
+            "id": "a023",
+            "title": "Kamisama Kiss",
+            "year": 2012,
+            "studio": "TMS Entertainment",
+            "genre": [
+                "Comedy",
+                "Romance",
+                "Supernatural"
+            ],
+            "episodes": 13,
+            "cover_image_url": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781421552668/kamisama-kiss-vol-13-9781421552668_hr.jpg",
+            "description": "Nanami Momozono es una joven que se queda sin hogar después de que su padre la abandona y se endeuda con prestamistas. Al encontrarse en la calle, conoce a un extraño hombre que le ofrece su casa. Sin embargo, al llegar allí, descubre que en realidad es un templo y que el hombre es un dios. Después de una serie de eventos, Nanami se convierte en la nueva diosa de la tierra y se encuentra en medio de una comunidad de dioses y espíritus. 'Kamisama Kiss' es un anime romántico y divertido producido por TMS Entertainment, basado en el manga del mismo nombre de Julietta Suzuki."
+        },
+        {
+            "id": "a024",
+            "title": "Akuyaku Reijou nanode Last Boss wo Kattemimashita",
+            "year": 2021,
+            "studio": "SILVER LINK.",
+            "genre": [
+                "Comedy",
+                "Fantasy",
+                "Romance"
+            ],
+            "episodes": 12,
+            "cover_image_url": "https://m.media-amazon.com/images/M/MV5BNTBmZGM2YmEtMDg1Mi00MGE5LWIyNGEtMTE0MThmNTA1YjdiXkEyXkFqcGdeQXVyODkzMzE0Nzc@._V1_FMjpg_UX1000_.jpg",
+            "description": "Katarina Claes es la hija de un duque y, como tal, está destinada a tener una vida privilegiada en el mundo de un juego de otome. Pero un día, después de un golpe en la cabeza, se da cuenta de que en realidad está viviendo dentro del juego y que su personaje es la villana principal destinada a tener un final trágico. Decidida a cambiar su destino, Katarina hace todo lo posible para evitar las situaciones que llevarían a su muerte en el juego. 'Akuyaku Reijou nanode Last Boss wo Kattemimashita' es un anime producido por SILVER LINK. que combina comedia, fantasía y romance en una historia llena de giros y sorpresas."
+        },
+        {
+            "id": "a025",
+            "title": "Jigoku Shoujo",
+            "year": 2005,
+            "studio": "Studio Deen",
+            "genre": [
+                "Mystery",
+                "Horror",
+                "Supernatural"
+            ],
+            "episodes": 26,
+            "cover_image_url": "https://pbs.twimg.com/media/C5zpXs0WUAAaRhO.jpg",
+            "description": "¿Has oído hablar de Jigoku Tsuushin (Correspondencia del Infierno)? Aquellos con un poderoso rencor solo pueden acceder a este misterioso sitio web a la medianoche, lo que les permite ingresar el nombre de cualquier persona y hacer que esa persona sea transportada directamente al infierno. Ai Enma, la Hell Girl, no juzgará si el objetivo elegido merece o no un castigo; ella simplemente se vengará de ellos por ti. No se sabe mucho sobre esta joven, aparte de que lleva a cabo sus tareas rápidamente con la ayuda de tres muñecos de paja. Sin embargo, solo hay una trampa: como pago por llevar a cabo dicha solicitud, el usuario debe condenarse a una vida futura en el infierno."
+        },
+        {
+            "id": "a026",
+            "title": "Sword Art Online",
+            "year": 2012,
+            "studio": "A-1 Pictures",
+            "genre": [
+                "Action",
+                "Adventure",
+                "Fantasy",
+                "Romance"
+            ],
+            "episodes": 25,
+            "cover_image_url": "https://m.media-amazon.com/images/M/MV5BYjY4MDU2YjMtNzY1MC00ODg1LWIwMzYtMWE5YTA3YTI4ZjMxXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg",
+            "description": "En el año 2022, se inventa un revolucionario dispositivo de realidad virtual llamado NerveGear, que permite a los jugadores experimentar una experiencia sensorial completa dentro de un mundo virtual mediante la manipulación de sus ondas cerebrales. A medida que se lanza un MMO muy esperado llamado Sword Art Online (SAO), los jugadores pronto descubren que no pueden cerrar la sesión. Para escapar del juego, deben despejar los 100 pisos de la torre del juego mientras sobreviven a innumerables batallas y trampas traicioneras. Sin embargo, si mueren en el juego, mueren en la vida real."
+        },
+        {
+            "id": "a027",
+            "title": "Rosario + Vampire",
+            "year": 2008,
+            "studio": "Gonzo",
+            "genre": [
+                "Comedy",
+                "Harem",
+                "Romance",
+                "Supernatural",
+                "Vampire"
+            ],
+            "episodes": 26,
+            "cover_image_url": "https://scontent.faep9-3.fna.fbcdn.net/v/t39.30808-6/309350826_418609753736208_7819272879849561517_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=oze9G57osjkAX9ho36W&_nc_oc=AQkgoVhE-Kimq0dg50TN7j5dLivg3E4IcerOLtj9vqEQrSuKK10cgN9bvbDZGxyEW14&_nc_ht=scontent.faep9-3.fna&oh=00_AfBq7vLxR0MTIP258WL3VYuMTMF2N5mkHFJWXKelxKG7Ng&oe=641DB675",
+            "description": "Debido a las malas calificaciones, Tsukune Aono, un estudiante promedio de secundaria, no ha podido ser aceptado en ninguna academia privada de su elección. Por accidente excepcional, la única escuela que lo acepta resulta ser cualquier cosa menos ordinaria; a la escuela asisten youkai disfrazados de humanos. Temiendo por su vida, intenta escapar solo para encontrarse con Moka Akashiya, una hermosa chica que resulta ser un vampiro. A pesar de esto, Tsukune decide quedarse en la academia, ocultando su naturaleza humana a los estudiantes y profesores."
+        },
+        {
+            "id": "a028",
+            "title": "Naruto",
+            "year": 2002,
+            "studio": "Studio Pierrot",
+            "genre": [
+                "Action",
+                "Adventure",
+                "Comedy",
+                "Drama",
+                "Fantasy"
+            ],
+            "episodes": 220,
+            "cover_image_url": "https://m.media-amazon.com/images/M/MV5BZGFiMWFhNDAtMzUyZS00NmQ2LTljNDYtMmZjNTc5MDUxMzViXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg",
+            "description": "Naruto Uzumaki es un joven ninja que sueña con convertirse en el Hokage, o el líder de su aldea. A pesar de ser condenado al ostracismo por los otros aldeanos por tener un poderoso demonio sellado dentro de él, Naruto nunca se da por vencido en sus sueños y entrena incansablemente para convertirse en un hábil ninja. Junto con sus amigos Sasuke y Sakura, Naruto se embarca en una serie de peligrosas misiones, enfrentándose a poderosos enemigos y descubriendo secretos sobre su pasado en el camino."
+        },
+        {
+            "id": "a029",
+            "title": "Monster",
+            "year": 2004,
+            "studio": "Madhouse",
+            "genre": [
+                "Drama",
+                "Mystery",
+                "Psychological",
+                "Thriller"
+            ],
+            "episodes": 74,
+            "cover_image_url": "https://pics.filmaffinity.com/monsuta_monster-705357606-large.jpg",
+            "description": "El Dr. Kenzo Tenma es un renombrado neurocirujano de ascendencia japonesa que trabaja en Alemania. Muy elogiado por sus compañeros como una de las grandes mentes jóvenes que revolucionarán el campo, ha sido bendecido con una hermosa prometida y está en la cúspide de una gran promoción en el hospital en el que trabaja. Pero todo eso está a punto de cambiar muy pronto..."
+        },
+        {
+            "id": "a030",
+            "title": "Re:Zero - Starting Life in Another World",
+            "year": 2016,
+            "studio": "White Fox",
+            "genre": [
+                "Isekai",
+                "Drama",
+                "Fantasy",
+                "Thriller"
+            ],
+            "episodes": 25,
+            "cover_image_url": "https://m.media-amazon.com/images/M/MV5BN2NlM2Y5Y2MtYjU5Mi00ZjZiLWFjNjMtZDNiYzJlMjhkOWZiXkEyXkFqcGdeQXVyNjc2NjA5MTU@._V1_FMjpg_UX1000_.jpg",
+            "description": "La historia sigue a un chico llamado Subaru Natsuki, quien es transportado a un mundo de fantasía después de salir de una tienda de conveniencia en Japón. Después de que su madre es asesinada, Subaru descubre que tiene la habilidad de regresar a un punto anterior en el tiempo cada vez que muere, lo que le permite intentar cambiar el resultado de los eventos y salvar a las personas que le importan."
+        },
+        {
+            "id": "a031",
+            "title": "Mononoke",
+            "year": 2007,
+            "studio": "Toei Animation",
+            "genre": [
+                "Horror",
+                "Supernatural",
+                "Mystery"
+            ],
+            "episodes": 12,
+            "cover_image_url": "https://m.media-amazon.com/images/M/MV5BYjE0MmVmYjctOTgxNi00MjY3LWIwNGItYjkwN2RhODcwNWE3XkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg",
+            "description": "Mononoke sigue a un personaje errante y sin nombre conocido solo como \"Vendedor de medicinas\". La serie está ambientada en Japón durante el período Edo e involucra al vendedor de medicinas resolviendo varios misterios sobrenaturales. Cada arco de la historia presenta un Mononoke, o espíritu/monstruo diferente, que el vendedor de medicinas debe confrontar, negociar o desterrar."
+        },
+        {
+            "id": "a032",
+            "title": "Chobits",
+            "year": 2002,
+            "studio": "Madhouse",
+            "genre": [
+                "Romance",
+                "Comedy",
+                "Drama",
+                "Sci-Fi"
+            ],
+            "episodes": 26,
+            "cover_image_url": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/91eiW4yrFpL.jpg",
+            "description": "En el futuro, las computadoras personales se han convertido en \"Persocoms\", computadoras móviles que pueden parecerse a seres humanos. Hideki Motosuwa, un estudiante de secundaria, desea desesperadamente comprar un Persocom pero no puede permitírselo. Un día, encuentra un Persocom que se ha tirado y decide quedárselo. Cuando enciende el Persocom, todo lo que ella puede decir es \"Chii\". A medida que Hideki aprende más sobre su Persocom e interactúa con otros Persocom, descubre que Chii no es un Persocom ordinario e incluso puede ser un Chobit, un tipo de Persocom avanzado que se rumorea que tiene un pensamiento independiente."
+        },
+        {
+            "id": "a033",
+            "title": "Tsubasa Chronicle",
+            "year": 2005,
+            "studio": "Bee Train",
+            "genre": [
+                "Action",
+                "Adventure",
+                "Drama",
+                "Fantasy",
+                "Romance"
+            ],
+            "episodes": 52,
+            "cover_image_url": "https://m.media-amazon.com/images/M/MV5BZmJmNjQ0NDEtOWUwNy00MjQ4LWEyZDMtOGI3ZTNlZWQ5MjA3XkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_.jpg",
+            "description": "Sakura, la princesa del reino de Clow, pierde todos sus recuerdos y los suyos se convierten en plumas dispersas por diferentes mundos paralelos. Con la ayuda de Kurogane, un guerrero de un mundo similar al Japón feudal; Fye, un mago de Celes, y Mokona Modoki, un ser mágico de gran poder, Sakura comienza un viaje para recuperar sus memorias. A lo largo del camino, se encontrarán con muchos peligros, amigos y enemigos, y la verdadera naturaleza de las plumas de Sakura será revelada."
+        },
+        {
+            "id": "a034",
+            "title": "Ajin",
+            "year": 2016,
+            "studio": "Polygon Pictures",
+            "genre": [
+                "Action",
+                "Horror",
+                "Mystery",
+                "Supernatural"
+            ],
+            "episodes": 26,
+            "cover_image_url": "https://m.media-amazon.com/images/M/MV5BMTc5MTE1ZWItMjRlOC00OGI0LTkyNGMtZjYyMzJkN2E5ZTMzXkEyXkFqcGdeQXVyMjQ5NjMxNDA@._V1_FMjpg_UX1000_.jpg",
+            "description": "Para el estudiante de secundaria Kei, y para al menos cuarenta y seis personas más, la inmortalidad es la sorpresa más desagradable de todas. Lamentablemente para Kei, tal hazaña no lo convierte en un superhéroe. A los ojos tanto del público en general como de los gobiernos, es un espécimen raro que debe ser perseguido y entregado a los científicos para que lo experimenten de por vida: un demi-humano que debe morir mil muertes por el beneficio de la humanidad."
+        },
+        {
+            "id": "a035",
+            "title": "Mirai Nikki",
+            "year": 2011,
+            "studio": "Asread",
+            "genre": [
+                "Action",
+                "Mystery",
+                "Psychological",
+                "Supernatural",
+                "Thriller"
+            ],
+            "episodes": 26,
+            "cover_image_url": "http://misiontokyo.com/wp-content/uploads/2022/08/Mirai-683x1024.jpg",
+            "description": "Yukiteru Amano es un estudiante de secundaria solitario que gasta todo su tiempo escribiendo un diario en su teléfono móvil desde el punto de vista de un espectador. Su único amigo es un producto de su imaginación, Deus Ex Machina, el Dios del Tiempo y el Espacio. Un día, este dios resulta ser real y fuerza a Yukiteru a participar en un juego mortal en el que el ganador se convertirá en su sucesor. Junto a los otros participantes, Yukiteru se enfrenta a varios desafíos para sobrevivir, todo mientras intenta proteger a su nueva amiga Yuno Gasai, una chica obsesionada con él que también tiene un diario del futuro."
+        },
+        {
+            "id": "a036",
+            "title": "Tomodachi Game",
+            "year": 2017,
+            "studio": "Lerche",
+            "genre": [
+                "Drama",
+                "Mystery",
+                "Psychological",
+                "School"
+            ],
+            "episodes": 12,
+            "cover_image_url": "https://cdn.myanimelist.net/images/about_me/ranking_items/10002241-3c1d6d9f-04bb-452d-bad7-b91fe251b679.jpg?t=1673996888",
+            "description": "Un día, Yuichi Katakiri, un estudiante de honor de primer año, recibe una invitación para unirse a un juego misterioso llamado \"Juego de la amistad\". Al aceptar la invitación, Yuichi y sus compañeros de clase se ven envueltos en un mundo retorcido donde la confianza y la traición son la clave para la supervivencia. El objetivo del juego es simple: gana puntos realizando tareas y adivinando correctamente quién de tus amigos te está traicionando en secreto. Sin embargo, el juego rápidamente se sale de control y, en poco tiempo, los estudiantes se encuentran en una lucha de vida o muerte para descubrir la verdad detrás del Juego de la Amistad."
+        },
+        {
+            "id": "a037",
+            "title": "Sankarea",
+            "year": 2012,
+            "studio": "Studio Deen",
+            "genre": [
+                "Comedy",
+                "Horror",
+                "Romance",
+                "Supernatural"
+            ],
+            "episodes": 12,
+            "cover_image_url": "https://m.media-amazon.com/images/M/MV5BZmM3N2MwNjUtNmI2Yy00NTdhLWFjMWYtYmQ1M2VkMTcxZTZjXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg",
+            "description": "Chihiro Furuya es un estudiante obsesionado con los zombis, su sueño es poder tener una novia zombi. Un día, mientras va a dar de comer a su gato muerto, se encuentra con una chica hermosa llamada Rea Sanka, quien ha huido de su hogar en busca de un escape de su vida estrictamente regulada. Ambos se hacen amigos, y ella le ayuda en su obsesión. Pero una serie de acontecimientos lleva a la muerte de Rea y la resurrección de su cuerpo como un zombi, lo que lleva a una historia de amor inmortal y en ocasiones aterradora."
+        },
+        {
+            "id": "a038",
+            "title": "Corpse Party",
+            "year": 2013,
+            "studio": "Asread",
+            "genre": [
+                "Horror",
+                "Mystery"
+            ],
+            "episodes": 4,
+            "cover_image_url": "https://m.media-amazon.com/images/M/MV5BYjg4NDU2M2ItZTdkNy00NmVjLTlmZDUtOGRmOWU0NTczZmIzXkEyXkFqcGdeQXVyMTM0MzkwMTk0._V1_FMjpg_UX1000_.jpg",
+            "description": "Después de realizar un ritual para invocar a las entidades fantasmales de la Escuela Primaria Heavenly Host, un grupo de estudiantes es transportado a otra dimensión donde la escuela fue borrada de la existencia hace años. Allí, son perseguidos por los fantasmas y deben encontrar una salida antes de que ellos también se conviertan en víctimas."
+        },
+        {
+            "id": "a039",
+            "title": "Tokyo Revengers",
+            "cover_image_url": "https://pics.filmaffinity.com/Tokyo_Revengers_Serie_de_TV-406170700-large.jpg",
+            "description": "Takemichi Hanagaki, un trabajador independiente que ha llegado a lo más profundo de la desesperación en su vida, se entera de que su ex novia Hinata Tachibana y su hermano menor Naoto han sido asesinados por Tokyo Manji Gang. Con la ayuda de un poder misterioso que lo envía atrás en el tiempo, Takemichi pretende salvar a sus seres queridos y cambiar el curso de la historia.",
+            "genre": [
+                "Action",
+                "Drama",
+                "Supernatural"
+            ],
+            "year": 2021,
+            "studio": "LIDENFILMS",
+            "episodes": 24
+        },
+        {
+            "id": "a040",
+            "title": "Chainsaw Man",
+            "description": "Denji es un joven que vive en la pobreza y vende sus órganos solo para llegar a fin de mes. Sin embargo, su vida cambia cuando se fusiona con su perro mascota, Pochita, para convertirse en el poderoso Chainsaw Man. Reclutado por Public Safety Devil Hunters, Denji lucha contra las amenazas del diablo a cambio de la oportunidad de vivir una vida normal.",
+            "genre": [
+                "Action",
+                "Horror",
+                "Supernatural"
+            ],
+            "year": 2022,
+            "studio": "MAPPA",
+            "episodes": 12,
+            "cover_image_url": "https://es.web.img3.acsta.net/pictures/22/08/01/10/00/1492791.jpg"
+        },
+        {
+            "id": "a041",
+            "title": "Totsukuni no Shoujo",
+            "description": "Una niña se pierde en un mundo de fantasía donde conoce a una misteriosa figura enmascarada que la ayuda a guiarla en su viaje a casa.",
+            "genre": [
+                "Fantasy",
+                "Drama"
+            ],
+            "year": 2021,
+            "studio": "Wit Studio",
+            "episodes": 12,
+            "cover_image_url": "https://pics.filmaffinity.com/totsukuni_no_shoujo-816386666-large.jpg"
+        },
+        {
+            "id": "a042",
+            "title": "Dance Dance Danseur",
+            "description": "Junpei se siente atraído por el mundo de los bailes de salón después de ver a una joven carismática llamada Miyako en una competencia. A pesar de no tener experiencia previa en danza, decide unirse al estudio de danza donde entrena Miyako y comienza un viaje de autodescubrimiento y crecimiento a medida que aprende el arte del baile de salón.",
+            "genre": [
+                "Drama",
+                "Sports"
+            ],
+            "year": 2021,
+            "studio": "TROYCA",
+            "episodes": 12,
+            "cover_image_url": "https://m.media-amazon.com/images/M/MV5BOTVkY2M1NjktNGM5Ni00MGViLTk5ZWQtYjBiYzJlYzZmODU0XkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_FMjpg_UX1000_.jpg"
+        },
+        {
+            "id": "a043",
+            "title": "Spy x Family",
+            "description": "En un mundo donde el espionaje y las operaciones de inteligencia son la norma, una espía llamada Twilight tiene la tarea de crear una familia falsa para infiltrarse en una prestigiosa escuela y acercarse a su objetivo. Termina adoptando a una chica telepática llamada Anya y casándose con un asesino llamado Yor, y juntos deben enfrentar los desafíos de la vida familiar mientras mantienen sus identidades secretas.",
+            "genre": [
+                "Action",
+                "Comedy",
+                "Drama"
+            ],
+            "year": 2022,
+            "studio": "WIT Studio",
+            "episodes": 12,
+            "cover_image_url": "https://es.web.img3.acsta.net/pictures/21/11/22/10/54/0321052.jpg"
+        },
+        {
+            "id": "a044",
+            "title": "Date A Live",
+            "description": "En un mundo donde los espíritus conocidos como 'Sephilas' causan terremotos espaciales que destruyen todo a su paso, el estudiante de secundaria Shido Itsuka es reclutado por una organización secreta para sellar los poderes de estos espíritus y hacer que se enamoren de él. Con la ayuda de sus amigos y los espíritus que encuentra, Shido se enfrenta a los desafíos de salir con alguien y salvar el mundo al mismo tiempo.",
+            "genre": [
+                "Action",
+                "Romance",
+                "Science Fiction"
+            ],
+            "year": 2013,
+            "studio": "AIC Plus+",
+            "episodes": 12,
+            "cover_image_url": "https://m.media-amazon.com/images/M/MV5BMjg5NGQ0ZjMtODk0MC00MmNlLWJmZTUtZDUwNmY1ZTc3ODk0XkEyXkFqcGdeQXVyMTQ3MjMyMTYz._V1_FMjpg_UX1000_.jpg"
+        },
+        {
+            "id": "a045",
+            "title": "Sailor Moon",
+            "description": "Cuando una torpe estudiante de secundaria llamada Usagi Tsukino conoce a una gata parlante llamada Luna, descubre que es la reencarnación de una legendaria guerrera conocida como Sailor Moon. Junto con sus compañeras Sailor Guardians, Usagi lucha contra las fuerzas del mal que amenazan la seguridad del mundo, todo mientras se enfrenta a los desafíos de ser una adolescente.",
+            "genre": [
+                "Magical Girl",
+                "Action",
+                "Romance"
+            ],
+            "year": 1992,
+            "studio": "Toei Animation",
+            "episodes": 200,
+            "cover_image_url": "https://pics.filmaffinity.com/Sailor_Moon_Serie_de_TV-848012693-large.jpg"
+        },
+        {
+            "id": "a046",
+            "title": "Kawaii dake ja Nai Shikimori-san",
+            "description": "Una estudiante de secundaria llamada Shikimori es conocida como la 'chica más linda de la escuela', pero tiene un secreto: en realidad es bastante torpe y tímida con sus compañeros de clase. Cuando un chico llamado Izumi Hikaru la invita a salir, Shikimori está sorprendida pero emocionada de tener la oportunidad de tener un romance. A medida que se desarrolla su relación, Shikimori e Izumi navegan juntos por los altibajos de la vida en la escuela secundaria.",
+            "genre": [
+                "Romance",
+                "Comedy",
+                "Slice of Life"
+            ],
+            "year": 2021,
+            "studio": "Fanworks",
+            "episodes": 12,
+            "cover_image_url": "https://img1.ak.crunchyroll.com/i/spire1/0633b33aea8915df953073055d3d47521642710715_main.jpg"
+        },
+        {
+            "id": "a047",
+            "cover_image_url": "https://pics.filmaffinity.com/aharen_san_wa_hakarenai-296006226-large.jpg",
+            "title": "Aharen-san wa Hakarenai",
+            "description": "Un estudiante de secundaria llamado Takashi es tranquilo y reservado, pero su vida cambia cuando conoce a su compañero de clase, el enérgico y extrovertido Aharen-san. A pesar de su personalidad amistosa y extrovertida, Aharen-san tiende a malinterpretar las señales sociales y se mete en situaciones incómodas. Takashi se siente atraído por ella y comienza a disfrutar de los momentos inesperados que comparten juntos.",
+            "genre": [
+                "Comedy",
+                "Romance",
+                "School"
+            ],
+            "year": 2021,
+            "studio": "Doga Kobo",
+            "episodes": 12
+        },
+        {
+            "id": "a048",
+            "cover_image_url": "https://ramenparados.com/wp-content/uploads/2020/09/horimiya-key-anime.jpg",
+            "title": "Horimiya",
+            "description": "Kyoko Hori es una estudiante de secundaria popular e inteligente que mantiene su vida hogareña en secreto de sus compañeros de clase. Un día, descubre que su compañero de clase, Izumi Miyamura, tiene un secreto propio: está cubierto de tatuajes y piercings fuera de la escuela. Cuando Kyoko e Izumi comienzan a vincularse por sus secretos compartidos, descubren que tienen más en común de lo que jamás imaginaron.",
+            "genre": [
+                "Romance",
+                "Comedy",
+                "Slice of Life"
+            ],
+            "year": 2021,
+            "studio": "CloverWorks",
+            "episodes": 13
+        },
+        {
+            "id": "a049",
+            "cover_image_url": "https://somoskudasai.com/wp-content/uploads/2022/10/portada_ijiranaide-nagatoro-san-57.jpg",
+            "title": "Ijiranaide, Nagatoro-san",
+            "description": "La estudiante de secundaria Hayase Nagatoro disfruta molestar y atormentar a su tímido compañero de clase, Naoto Hachiouji. A pesar del comportamiento aparentemente cruel de Nagatoro, Hachiouji se siente atraído por ella y comienza a disfrutar de sus interacciones. A medida que pasan más tiempo juntos, Nagatoro y Hachiouji comienzan a desarrollar una relación más cercana.",
+            "genre": [
+                "Romance",
+                "Comedy",
+                "Slice of Life"
+            ],
+            "year": 2021,
+            "studio": "Telecom Animation Film",
+            "episodes": 12
+        },
+        {
+            "id": "a050",
+            "cover_image_url": "https://lh3.googleusercontent.com/-YJlJo04-hto/YyYU_8Ak5jI/AAAAAAAAuHs/Plxt-tP55D4_hwH-0um6n5hwZGtO02v-gCNcBGAsYHQ/s0/Kanojo-Okarishimasu.jpg",
+            "title": "Kanojo, Okarishimasu",
+            "description": "El estudiante universitario Kazuya Kinoshita es abandonado por su novia después de solo un mes de relación. Desesperado por no estar solo, alquila una novia a través de una aplicación móvil llamada Diamond. Su novia falsa, Chizuru Mizuhara, es hermosa y parece perfecta, pero su relación se complica por el hecho de que se basa en una mentira. A medida que continúan pasando tiempo juntos, Kazuya y Chizuru desarrollan sentimientos reales el uno por el otro.",
+            "genre": [
+                "Romance",
+                "Comedy",
+                "School"
+            ],
+            "year": 2020,
+            "studio": "TMS Entertainment",
+            "episodes": 12
+        },
+        {
+            "id": "a051",
+            "cover_image_url": "https://m.media-amazon.com/images/M/MV5BOTIwZjQyZWQtZjk5NS00NzI0LTlmMDAtOWExM2QxZTAxZjAxXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg",
+            "title": "My Next Life As a Villainess: All Routes Lead to Doom!",
+            "description": "La estudiante de secundaria Katarina Claes de repente se encuentra reencarnada como la villana de un juego otome al que solía jugar. Al darse cuenta de que todas las rutas del juego conducen a su destrucción, se propone cambiar su destino utilizando su conocimiento de la historia del juego para tratar de evitar su perdición. En el camino, sin darse cuenta, encanta a los intereses amorosos del juego, lo que lleva a desarrollos románticos inesperados.",
+            "genre": [
+                "Comedy",
+                "Romance",
+                "Fantasy"
+            ],
+            "year": 2020,
+            "studio": "Silver Link",
+            "episodes": 12
+        },
+        {
+            "id": "a052",
+            "cover_image_url": "https://tierragamer.com/wp-content/uploads/2022/09/Mahoutsukai-no-Yome-Tierra-Gamer.jpeg",
+            "title": "Mahoutsukai no Yome",
+            "description": "Chise Hatori, una joven con un pasado problemático, es comprada en una subasta por un misterioso mago llamado Elias Ainsworth. Elias toma a Chise como su aprendiz y le enseña sobre el mundo de la magia, así como los oscuros secretos de su propio pasado. A medida que Chise aprende más sobre magia y comienza a dominar sus propias habilidades, también descubre una conexión más profunda con Elias y su mundo.",
+            "genre": [
+                "Fantasy",
+                "Romance",
+                "Supernatural"
+            ],
+            "year": 2017,
+            "studio": "Wit Studio",
+            "episodes": 24
+        },
+        {
+            "id": "a053",
+            "cover_image_url": "https://cdn.myanimelist.net/images/about_me/ranking_items/9155762-3fa9b5ca-dd78-4961-ba2d-610c628f7db5.jpg?t=1676654065",
+            "title": "NANA",
+            "description": "La serie sigue la vida de dos mujeres jóvenes llamadas Nana que se conocen en un tren a Tokio. Nana Komatsu, una ingenua y emocional joven de 20 años, está en camino de reunirse con su novio, mientras que Nana Osaki, una cantante y guitarrista de punk rock, se dirige a Tokio para seguir su carrera musical. Las dos Nanas se convierten en compañeras de cuarto y se apoyan mutuamente en los altibajos de su vida personal y profesional.",
+            "genre": [
+                "Drama",
+                "Romance",
+                "Music"
+            ],
+            "year": 2006,
+            "studio": "Madhouse",
+            "episodes": 47
+        },
+        {
+            "id": "a054",
+            "cover_image_url": "https://i0.wp.com/modogeeks.com/wp-content/uploads/2015/12/418455.jpg?resize=1280%2C640&ssl=1",
+            "title": "Puella Magi Madoka Magica",
+            "genre": [
+                "Magic",
+                "Psychological",
+                "Thriller"
+            ],
+            "year": 2011,
+            "studio": "Shaft",
+            "episodes": 12,
+            "description": "La vida de Madoka Kaname cambia cuando conoce a una criatura mágica llamada Kyubey, quien le ofrece la oportunidad de convertirse en una chica mágica y luchar contra las brujas. Sin embargo, Madoka pronto descubre los oscuros secretos detrás de ser una chica mágica y el verdadero costo de hacer un contrato con Kyubey."
+        },
+        {
+            "id": "a055",
+            "cover_image_url": "https://www.animeclick.it/immagini/anime/Mushishi_Zoku_Shou/cover/Mushishi_Zoku_Shou-cover.jpg",
+            "title": "Mushishi",
+            "genre": [
+                "Fantasy",
+                "Supernatural",
+                "Drama"
+            ],
+            "year": 2005,
+            "studio": "Artland",
+            "episodes": 26,
+            "description": "Ginko es un 'Mushishi', una persona que estudia y trata con 'mushi', entidades sobrenaturales que a menudo tienen efectos negativos en los humanos. En sus viajes, Ginko se encuentra con una variedad de mushi y ayuda a las personas afectadas por ellos, mientras trata de descubrir los misterios que rodean a las criaturas."
+        },
+        {
+            "id": "a056",
+            "cover_image_url": "https://api.duniagames.co.id/api/content/upload/file/3852194671648813549.jpg",
+            "title": "Shokugeki no Souma",
+            "genre": [
+                "Cooking",
+                "Comedy",
+                "Drama"
+            ],
+            "year": 2015,
+            "studio": "J.C.Staff",
+            "episodes": 24,
+            "description": "Yukihira Souma es un joven chef ambicioso que sueña con superar las habilidades culinarias de su padre y dirigir su propio restaurante. Se inscribe en una escuela culinaria de élite donde enfrenta una dura competencia, maestros duros y una variedad de desafíos culinarios. Souma usa su creatividad y pasión por la cocina para superar todos los obstáculos en su camino."
+        },
+        {
+            "id": "a057",
+            "cover_image_url": "https://i0.wp.com/blog.animeinstrumentality.net/wp-content/uploads/2017/02/Yuri-on-Ice-OST.jpg",
+            "title": "Yuri on Ice",
+            "genre": [
+                "Sports",
+                "Romance",
+                "Drama"
+            ],
+            "year": 2016,
+            "studio": "MAPPA",
+            "episodes": 12,
+            "description": "Yuri Katsuki es un talentoso patinador artístico japonés que sufre una aplastante derrota en una competencia importante. Considera retirarse del patinaje, pero después de que un video de él imitando a un patinador famoso se vuelve viral, llama la atención del entrenador del patinador, Viktor Nikiforov. Con la guía de Viktor, Yuri aspira a ganar el Gran Premio y convertirse en un patinador de primer nivel."
+        }
+    ]
+}
